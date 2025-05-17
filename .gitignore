@@ -1,0 +1,5 @@
+# .gitignore
+.env
+bin/
+vender/
+.vscode/
